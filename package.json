@@ -1,0 +1,22 @@
+{
+  "name": "contactme",
+  "version": "1.0.0",
+  "description": "Instantly contact finbar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/finbargiusti/ContactMe.git"
+  },
+  "author": "Finbar Giusti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/finbargiusti/ContactMe/issues"
+  },
+  "homepage": "https://github.com/finbargiusti/ContactMe#readme",
+  "devDependencies": {
+    "express": "^4.15.4"
+  }
+}
